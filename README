@@ -1,0 +1,11 @@
+These files depend on a database called IMC. Saved and hosted through XAMPP.
+
+Each PHP is a separate page for hosting the reports generated from the database.
+
+Database not available for upload in the interest of privacy for our clients.
+
+Using XAMPP, one can load the Database tool, upload the database, and enable hosting through XAMPP. These files would be placed into
+the XAMPP > HTDocs > IMC folder. When you navigate to the XAMPP Admin center, it brings you to the local host. Select the IMC folder and you have access to the site.
+
+Each PHP file is accessible from the front page, and from inside each page. Some search and sort functions are displayed and operational. Everything else is for readability
+of the database.
